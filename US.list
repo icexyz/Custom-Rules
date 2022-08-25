@@ -1,0 +1,15 @@
+# > US
+USER-AGENT,LinkedIn*
+USER-AGENT,PayPal*
+USER-AGENT,BestBuy*
+USER-AGENT,Walmart*
+USER-AGENT,TruthSocial*
+# USER-AGENT,Spotify*
+DOMAIN-SUFFIX,paypal.com
+DOMAIN-SUFFIX,linkedin.com
+DOMAIN-SUFFIX,bestbuy.com
+DOMAIN-SUFFIX,amazon.com
+DOMAIN-SUFFIX,walmart.com
+DOMAIN-SUFFIX,epicgames.com
+DOMAIN-SUFFIX,truthsocial.com
+# DOMAIN-SUFFIX,spotify.com
